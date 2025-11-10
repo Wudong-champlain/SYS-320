@@ -1,0 +1,8 @@
+/bin/bash
+\.\./
+%2e%2e
+/etc/passwd
+/etc/shadow
+wp-login.php
+sqlmap
+cmd=
